@@ -1,0 +1,4 @@
+E:\Dropbox\COIS3020\A1Q2\A2 - Trie\A2 - Trie\bin\Release\A2 - Trie.exe
+E:\Dropbox\COIS3020\A1Q2\A2 - Trie\A2 - Trie\bin\Release\A2 - Trie.pdb
+E:\Dropbox\COIS3020\A1Q2\A2 - Trie\A2 - Trie\obj\Release\A2 - Trie.exe
+E:\Dropbox\COIS3020\A1Q2\A2 - Trie\A2 - Trie\obj\Release\A2 - Trie.pdb
